@@ -1,0 +1,21 @@
+{
+  "name": "edu-track-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RRC-2024-OM/EDU-TRACK-DOC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RRC-2024-OM/EDU-TRACK-DOC/issues"
+  },
+  "homepage": "https://github.com/RRC-2024-OM/EDU-TRACK-DOC#readme"
+}
